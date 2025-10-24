@@ -2,7 +2,7 @@
   "name": "Sherpa-OnnxAsr-tiny",
   "version": "latest",
   "slug": "sherpa-onnx-asr",
-  "description": "本地离线语音模型，占用1GB",
+  "description": "本地离线语音模型，完整版占用1GB内存，这个版本是tiny版，方便小内存设备安装。",
   "url": "https://github.com/yaming116",
   "arch": ["amd64", "aarch64"],
   "startup": "application",
