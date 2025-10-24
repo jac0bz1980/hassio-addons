@@ -1,6 +1,6 @@
 {
-  "name": "Sherpa-OnnxAsr",
-  "version": "paraformer-2024-7-5",
+  "name": "Sherpa-OnnxAsr-tiny",
+  "version": "last",
   "slug": "sherpa-onnx-asr",
   "description": "本地离线语音模型，占用1GB",
   "url": "https://github.com/yaming116",
@@ -8,7 +8,7 @@
   "startup": "application",
   "boot": "auto",
   "init": false,
-  "image": "yaming116/sherpa-onnx-asr",
+  "image": "yaming116/sherpa-onnx-asr-tiny",
   "ports": {
     "5001/tcp": 5001
   },
