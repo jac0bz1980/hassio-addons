@@ -1,4 +1,4 @@
-fork from:https://github.com/knoop7/hassio-addons
+forked from:https://github.com/knoop7/hassio-addons
 
 修改了Sherp-OnnxAsr版本号，这个仓库里的是tiny版，因为要在我的tn3399_v3开发板上使用，完整版因硬件内存不足，会内存溢出被杀进程，tiny版目前还没发现被杀进程，功能也满足需求，顺便添加在用的其他插件。
 
